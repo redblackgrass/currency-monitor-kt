@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GetCursOnDateXMLResponse xmlns="http://web.cbr.ru/">
+    <GetCursOnDateXMLResult>
+        <ValuteData xmlns="" OnDate="20170121">
+            <ValuteCursOnDate>
+                <Vname>Австралийский доллар</Vname>
+                <Vnom>1</Vnom>
+                <Vcurs>45.0626</Vcurs>
+                <Vcode>36</Vcode>
+                <VchCode>AUD</VchCode>
+            </ValuteCursOnDate>
+            <ValuteCursOnDate>
+                <Vname>Азербайджанский манат</Vname>
+                <Vnom>1</Vnom>
+                <Vcurs>32.2382</Vcurs>
+                <Vcode>944</Vcode>
+                <VchCode>AZN</VchCode>
+            </ValuteCursOnDate>
+        </ValuteData>
+    </GetCursOnDateXMLResult>
+</GetCursOnDateXMLResponse>
